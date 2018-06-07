@@ -1,5 +1,6 @@
 /**
 * Problem link: http://codeforces.com/contest/454/problem/A
+* Date: 2014-08-05 
 **/
 
 import java.io.BufferedReader;
