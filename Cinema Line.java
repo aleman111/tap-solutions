@@ -1,5 +1,6 @@
 /**
 * Problem Link: http://codeforces.com/contest/349/problem/A
+* Date: 2014-08-29
 **/
 
 import java.awt.List;
