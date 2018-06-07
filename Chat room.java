@@ -1,6 +1,6 @@
 /**
 * Problem Link: http://codeforces.com/contest/58/problem/A
-* Date: 2018-07-29
+* Date: 2014-07-29
 **/
 
 import java.util.Scanner;
